@@ -1,4 +1,4 @@
-Project Title: Internship Portal
+#Internship Portal
 
 This project is a very simple internship portal having following features: 
 1. There are two users 'Student' and 'Employer'.
