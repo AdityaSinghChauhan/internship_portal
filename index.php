@@ -102,7 +102,7 @@ At the core of the idea is the belief that internships, if managed well, can mak
 <li><a href="#"> I love coding ;)</a></li>
 <li><a href="#">... and Astronomy </a></li>
 <li><a href="#">I am enjoying developing this application</a></li>
-<li><a href="#">Thankyou Internshala</a></li>
+
 </ul>
 </marquee>
 
@@ -113,7 +113,7 @@ At the core of the idea is the belief that internships, if managed well, can mak
 <li><a href="#"> I love coding ;)</a></li>
 <li><a href="#">... and Astronomy </a></li>
 <li><a href="#">I am enjoying developing this application</a></li>
-<li><a href="#">Thankyou Internshala</a></li>
+
 </ul>
 </marquee>
 
